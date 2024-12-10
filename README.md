@@ -38,7 +38,7 @@
 ### Urban Routes Automation Test
 [Publication](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Comprobar el estado de funcionalidades criticas de la aplicación web Urban Routes, se examina la creación de ruta, añadir datos personales, reservación de un vehículo y seleccionar algunas opciones adicionales, se diseñan pruebas automatizadas con las herramientas de PyCharm, Pytest y Selenium mediante la técnica de diseño POM
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
