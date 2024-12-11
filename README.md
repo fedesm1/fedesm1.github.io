@@ -3,9 +3,9 @@
 #### Habilidades: Python, SQL, Selenium, Git, Android Studio, Jira
 
 ## Educación
-- Bootcamp, QA Engineer   Tripleten (_Abril 2024_)								       		
-- Téc, Aviación   Corporación Educativa Indoamericana (_febrero 2021_)	 			        		
-- Téc, Aviación   Avianca Services (_febrero 2019_)
+- Bootcamp, QA Engineer|Tripleten (_Abril 2024_)								       		
+- Téc, Aviación|Corporación Educativa Indoamericana (_febrero 2021_)	 			        		
+- Téc, Aviación|Avianca Services (_febrero 2019_)
 
 ## Experiencia
 **QA Engineer @ Bootcamp Tripleten (_Abril 2024 - Octubre 2024_)**
@@ -42,6 +42,8 @@ Comprobar el estado de funcionalidades criticas de la aplicación web Urban Rout
 
 ![Urban.Routes](Assets/img/S8UR.png)
 
+
+
 ### Urban Scooter Project
 [Publicación](https://github.com/fedesm1/Urban-Scooter-Project)
 
@@ -49,9 +51,11 @@ Practicas fundamentales de las pruebas de software para la aplicación web y mó
 
 ![Urban.Scooter](Assets/img/PFUS.png)
 
+
+
 ### Urban-Grocers-API-Automation
 [Publicación](https://github.com/fedesm1/Urban-Grocers-API-Automation)
 
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+Pruebas automatizadas para la API de Urban Grocers, se comprueba la funcionalidad del back-end para la creación de kits de usuario, incluyendo la validación de nombres de kit y registro de usuario.
 
 ![Urban.Grocers](Assets/img/S7UG.png)
