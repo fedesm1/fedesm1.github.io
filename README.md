@@ -3,9 +3,9 @@
 #### Habilidades: Python, SQL, Selenium, Git, Android Studio, Jira
 
 ## Educación
-- Bootcamp, QA Engineer | Tripleten (_Abril 2024_)								       		
-- Téc, Aviación	| Corporación Educativa Indoamericana (_febrero 2021_)	 			        		
-- Téc, Aviación | Avianca Services (_febrero 2019_)
+- Bootcamp, QA Engineer   Tripleten (_Abril 2024_)								       		
+- Téc, Aviación   Corporación Educativa Indoamericana (_febrero 2021_)	 			        		
+- Téc, Aviación   Avianca Services (_febrero 2019_)
 
 ## Experiencia
 **QA Engineer @ Bootcamp Tripleten (_Abril 2024 - Octubre 2024_)**
@@ -34,23 +34,23 @@
 
 
 
-## Projects
+## Proyectos
 ### Urban Routes Automation Test
-[Publication](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
+[Publicación](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
 
 Comprobar el estado de funcionalidades criticas de la aplicación web Urban Routes, se examina la creación de ruta, añadir datos personales, reservación de un vehículo y seleccionar algunas opciones adicionales, se diseñan pruebas automatizadas con las herramientas de PyCharm, Pytest y Selenium mediante la técnica de diseño POM.
 
-![EEG Band Discovery](Assets/img/S8UR.png)
+![Urban.Routes](Assets/img/S8UR.png)
 
 ### Urban Scooter Project
-[Publication](https://github.com/fedesm1/Urban-Scooter-Project)
+[Publicación](https://github.com/fedesm1/Urban-Scooter-Project)
 
 Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Urban.Scooter](Assets/img/PFUS.png)
 
 ### Urban-Grocers-API-Automation
-[Publication](https://github.com/fedesm1/Urban-Grocers-API-Automation)
+[Publicación](https://github.com/fedesm1/Urban-Grocers-API-Automation)
 
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
