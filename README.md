@@ -54,4 +54,4 @@ Practicas fundamentales de las pruebas de software para la aplicación web y mó
 
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Urban.Grocers](Assets/img/S7UG.png)
+![Urban.Grocers](Assets/img/S7UG.png)
