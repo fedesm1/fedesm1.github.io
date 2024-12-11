@@ -38,9 +38,9 @@
 ### Urban Routes Automation Test
 [Publication](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
 
-Comprobar el estado de funcionalidades criticas de la aplicación web Urban Routes, se examina la creación de ruta, añadir datos personales, reservación de un vehículo y seleccionar algunas opciones adicionales, se diseñan pruebas automatizadas con las herramientas de PyCharm, Pytest y Selenium mediante la técnica de diseño POM
+Comprobar el estado de funcionalidades criticas de la aplicación web Urban Routes, se examina la creación de ruta, añadir datos personales, reservación de un vehículo y seleccionar algunas opciones adicionales, se diseñan pruebas automatizadas con las herramientas de PyCharm, Pytest y Selenium mediante la técnica de diseño POM.
 
-![EEG Band Discovery](/assets/img/S8_UR.pnj)
+![EEG Band Discovery](Assets/img/S8UR.png)
 
 ### Urban Scooter Project
 [Publication](https://github.com/fedesm1/Urban-Scooter-Project)
