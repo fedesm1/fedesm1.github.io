@@ -3,9 +3,11 @@
 #### Habilidades: Python, SQL, Selenium, Git, Android Studio, Jira
 
 ## Educación
-- Bootcamp, QA Engineer|Tripleten (_Abril 2024_)								       		
-- Téc, Aviación|Corporación Educativa Indoamericana (_febrero 2021_)	 			        		
-- Téc, Aviación|Avianca Services (_febrero 2019_)
+<ul>
+  <li>Bootcamp, QA Engineer | Tripleton (Abril 2024_)</li>
+  <li>Tec, Aviación | Corporación Educativa Indoamericana (febrero 2021)</li>
+  <li>Téc, Aviación | Avianca Services (febrero 2019)</li>
+</ul>
 
 ## Experiencia
 **QA Engineer @ Bootcamp Tripleten (_Abril 2024 - Octubre 2024_)**
