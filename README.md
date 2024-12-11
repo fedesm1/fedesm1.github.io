@@ -5,11 +5,8 @@
 ## Educación
 
 - Bootcamp, QA Engineer | Tripleten (Octubre 2024)
------------------------
 - Téc, Aviación | Corporación Educativa Indoamericana (Agosto 2021)
-------------------------
 - Téc, Aviación | Avianca Services (Diciembre 2020)
-------------------
 
 
 ## Experiencia
