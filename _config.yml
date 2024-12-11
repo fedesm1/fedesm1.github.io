@@ -1,5 +1,5 @@
 title: Federico
-logo: Assets/img/PF.jpg
+#logo: Assets/img/PF.jpg
 #description: text below image
 show_downloads: true
 theme: jekyll-theme-minimal
