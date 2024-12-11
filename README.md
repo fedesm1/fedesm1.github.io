@@ -45,7 +45,7 @@ Comprobar el estado de funcionalidades criticas de la aplicación web Urban Rout
 ### Urban Scooter Project
 [Publicación](https://github.com/fedesm1/Urban-Scooter-Project)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Practicas fundamentales de las pruebas de software para la aplicación web y móvil Urban Scooter, se realizan análisis de requisitos, listas de comprobación, informes de errores, pruebas de API, consultas SQL, pruebas funcionales, pruebas de interfaz, pruebas positivas, pruebas negativas, mediante las herramientas de Android Studio, Postman, Línea de comandos (CLI), y Bases de datos, se presentan también preguntas, ejercicios y definiciones sobre conceptos generales de las pruebas de software.
 
 ![Urban.Scooter](Assets/img/PFUS.png)
 
@@ -54,4 +54,4 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 
 9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
 
-- [Data Science Blog](https://medium.com/@shawhin)
+- [Urban.Grocers](Assets/img/S7UG.png)
