@@ -11,15 +11,13 @@
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=android%20studio&logoColor=black)
 
 
-
-
 ### Educación
 
-<p>Bootcamp, QA Engineer | Tripleten (Octubre 2024)<br>Téc, Aviación | Corporación Educativa Indoamericana (Agosto 2021)
+<p>QA Engineer | Tripleten (Octubre 2024)<br>Téc, Aviación | Corporación Educativa Indoamericana (Agosto 2021)
 <br>Téc, Aviación | Avianca Services (Diciembre 2020)</p>
 
 ## Experiencia
-**QA Engineer @ Bootcamp Tripleten (_Abril 2024 - Octubre 2024_)**
+**QA Engineer @ Tripleten (_Abril 2024 - Octubre 2024_)**
 - Diseñé y ejecuté más de 100 casos de prueba basados en requisitos funcionales.
 - Colaboré con equipos multiculturales de desarrollo y analistas para analizar requisitos y resolver zonas grises funcionales.
 - Implementé pruebas de API utilizando Postman, logrando identificar y documentar más de 30 defectos críticos.
@@ -41,8 +39,6 @@
 - Ejecuté pruebas de sistemas electrónicos, hidráulicos y neumáticos, utilizando software especializado.
 - Diagnostiqué componentes físicos y sistemas informáticos integrados en aeronaves.
 - Realicé reportes de fallas y análisis de documentación técnica.
-
-
 
 
 ## Proyectos
