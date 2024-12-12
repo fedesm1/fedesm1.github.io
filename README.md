@@ -1,5 +1,15 @@
 # QA Engineer
 
+### Habilidades
+
+![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=black&labelColor=white) 
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=black&labelColor=white) 
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=black&labelColor=white) 
+![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=black&labelColor=white) 
+![Postgres](https://img.shields.io/badge/Postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=white) 
+![Jira](https://img.shields.io/badge/Jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=black&labelColor=white) 
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android%20studio&logoColor=black&labelColor=white)
+
 ### Educación
 
 <p>Bootcamp, QA Engineer | Tripleten (Octubre 2024)<br>Téc, Aviación | Corporación Educativa Indoamericana (Agosto 2021)
