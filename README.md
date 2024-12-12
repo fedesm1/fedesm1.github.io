@@ -2,13 +2,15 @@
 
 ### Habilidades
 
-![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=black&labelColor=white) 
-![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=black&labelColor=white) 
-![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=black&labelColor=white) 
-![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=black&labelColor=white) 
-![Postgres](https://img.shields.io/badge/Postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=black&labelColor=white) 
-![Jira](https://img.shields.io/badge/Jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=black&labelColor=white) 
-![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android%20studio&logoColor=black&labelColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-%23000000.svg?style=for-the-badge&logo=selenium&logoColor=%23000000&labelColor=white)
+![Git](https://img.shields.io/badge/Git-%23000000.svg?style=for-the-badge&logo=git&logoColor=%23000000&labelColor=white)
+![Python](https://img.shields.io/badge/Python-%23000000.svg?style=for-the-badge&logo=python&logoColor=%23000000&labelColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23000000.svg?style=for-the-badge&logo=postman&logoColor=%23000000&labelColor=white)
+![Postgres](https://img.shields.io/badge/Postgres-%23000000.svg?style=for-the-badge&logo=postgresql&logoColor=%23000000&labelColor=white)
+![Jira](https://img.shields.io/badge/Jira-%23000000.svg?style=for-the-badge&logo=jira&logoColor=%23000000&labelColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-%23000000.svg?style=for-the-badge&logo=android%20studio&logoColor=%23000000&labelColor=white)
+
+
 
 ### Educación
 
