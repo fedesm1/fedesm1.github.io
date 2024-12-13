@@ -1,4 +1,4 @@
-# QA Engineer
+# Quality Assurance Engineer
 
 ### Sobre mi
 
