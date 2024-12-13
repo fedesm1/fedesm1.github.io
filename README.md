@@ -75,7 +75,7 @@ Pruebas automatizadas para la API de Urban Grocers, se comprueba la funcionalida
 
 <p style="font-size: 18px;">
 "Nadie puede volver atrás y empezar un nuevo comienzo, pero cualquiera puede empezar hoy y hacer un nuevo final."</p>
-<p style="font-size: 15px;"> — María Robinson </p>
+<p style="font-size: 13px;"> — María Robinson </p>
 
 
 
