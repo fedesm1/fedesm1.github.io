@@ -7,13 +7,13 @@ Cuando se trata sobre informática, software, hardware, pruebas o reparación de
 
 ### Habilidades
 
-![Selenium](https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=black)
-![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=black)
-![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=black)
-![Postgres](https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgresql&logoColor=black)
-![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=black)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=android%20studio&logoColor=black)
+![Selenium](https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=green)
+![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
+![Python](https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue)
+![Postman](https://img.shields.io/badge/Postman-white?style=for-the-badge&logo=postman&logoColor=orange)
+![Postgres](https://img.shields.io/badge/Postgres-white?style=for-the-badge&logo=postgresql&logoColor=blue)
+![Jira](https://img.shields.io/badge/Jira-white?style=for-the-badge&logo=jira&logoColor=blue)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=android%20studio&logoColor=green)
 
 
 ### Educación
