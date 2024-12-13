@@ -1,11 +1,11 @@
 # Quality Assurance Engineer
 
-### Sobre mi
+## Sobre mi
 
 Cuando se trata sobre informática, software, hardware, pruebas o reparación de computadoras, me sentiré siempre identificado, todos estos temas y entre otros como la historia, astronomía, aviación y en mundo aeroespacial siempre han sido muy interesantes para mí. Decidí enfocarme en las pruebas de software porque es un mundo donde puedo aplicar y desarrollar muchas de mis habilidades e intereses, he tenido la oportunidad de trabajar con análisis de requisitos, diseño de pruebas manuales y automatizadas e informes de errores bajo un formato scrum realizando proyectos implementando pruebas de humo, regresión, de funcionalidades, de interfaz (GUI), de API, entre otras. Me certifiqué y ejercí como técnico en mantenimiento de aeronaves, experiencia que me fortaleció mucho en mi visión del mundo y el trabajo, ya que me proporcionó habilidades importantes para la entrega de calidad, trabajo en equipo, gestión del tiempo, atención al detalle, formación de la disciplina y la más importante, ser curioso y querer seguir aprendiendo cosas nuevas.
 
 
-### Habilidades
+## Habilidades
 
 ![Selenium](https://img.shields.io/badge/Selenium-white?style=for-the-badge&logo=selenium&logoColor=green)
 ![Git](https://img.shields.io/badge/Git-white?style=for-the-badge&logo=git&logoColor=red)
@@ -16,7 +16,7 @@ Cuando se trata sobre informática, software, hardware, pruebas o reparación de
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-white?style=for-the-badge&logo=android%20studio&logoColor=green)
 
 
-### Educación
+## Educación
 
 <p>QA Engineer | Tripleten (Octubre 2024)<br>Téc, Aviación | Corporación Educativa Indoamericana (Agosto 2021)
 <br>Téc, Aviación | Avianca Services (Diciembre 2020)</p>
@@ -47,6 +47,7 @@ Cuando se trata sobre informática, software, hardware, pruebas o reparación de
 
 
 ## Proyectos
+
 ### Urban Routes Automation Test
 [🔗Publicación](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
 
