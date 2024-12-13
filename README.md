@@ -71,3 +71,12 @@ Practicas fundamentales de las pruebas de software para la aplicación web y mó
 Pruebas automatizadas para la API de Urban Grocers, se comprueba la funcionalidad del back-end para la creación de kits de usuario, incluyendo la validación de nombres de kit y registro de usuario.
 
 ![Urban.Grocers](Assets/img/S7UG.png)
+
+<blockquote cite="https://example.com">
+    "Nadie puede volver atrás y empezar un nuevo comienzo, pero cualquiera puede empezar hoy y hacer un nuevo final."
+    <footer>— María Robinson</footer>
+</blockquote>
+
+### Contactame
+📩 : fedesm24@gmail.com
+
