@@ -48,7 +48,7 @@ Cuando se trata sobre informática, software, hardware, pruebas o reparación de
 
 ## Proyectos
 ### Urban Routes Automation Test
-[Publicación](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
+[🔗Publicación](https://github.com/fedesm1/Urban-Routes-Automation-Tests)
 
 Comprobar el estado de funcionalidades criticas de la aplicación web Urban Routes, se examina la creación de ruta, añadir datos personales, reservación de un vehículo y seleccionar algunas opciones adicionales, se diseñan pruebas automatizadas con las herramientas de PyCharm, Pytest y Selenium mediante la técnica de diseño POM.
 
@@ -57,7 +57,7 @@ Comprobar el estado de funcionalidades criticas de la aplicación web Urban Rout
 
 
 ### Urban Scooter Project
-[Publicación](https://github.com/fedesm1/Urban-Scooter-Project)
+[🔗Publicación](https://github.com/fedesm1/Urban-Scooter-Project)
 
 Practicas fundamentales de las pruebas de software para la aplicación web y móvil Urban Scooter, se realizan análisis de requisitos, listas de comprobación, informes de errores, pruebas de API, consultas SQL, pruebas funcionales, pruebas de interfaz, pruebas positivas, pruebas negativas, mediante las herramientas de Android Studio, Postman, Línea de comandos (CLI), y Bases de datos, se presentan también preguntas, ejercicios y definiciones sobre conceptos generales de las pruebas de software.
 
@@ -66,7 +66,7 @@ Practicas fundamentales de las pruebas de software para la aplicación web y mó
 
 
 ### Urban-Grocers-API-Automation
-[Publicación](https://github.com/fedesm1/Urban-Grocers-API-Automation)
+[🔗Publicación](https://github.com/fedesm1/Urban-Grocers-API-Automation)
 
 Pruebas automatizadas para la API de Urban Grocers, se comprueba la funcionalidad del back-end para la creación de kits de usuario, incluyendo la validación de nombres de kit y registro de usuario.
 
