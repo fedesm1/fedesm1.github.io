@@ -74,12 +74,10 @@ Pruebas automatizadas para la API de Urban Grocers, se comprueba la funcionalida
 
 <hr>
 
-<blockquote style="font-size: 18px;">
+<blockquote style="font-size: 15px;">
   "Nadie puede volver atrás y empezar un nuevo comienzo, pero cualquiera puede empezar hoy y hacer un nuevo final."
   <cite> - María Robinson </cite>
 </blockquote>
-
-<hr>
 
 ## Contactame
 📩 : fedesm24@gmail.com
