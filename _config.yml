@@ -1,5 +1,6 @@
 title: Federico Suarez
 logo: Assets/img/FSM.png
-description: <a href="http://www.linkedin.com/in/federico-suarez-qa-engineer" target="_blank">linkedin</a>
+description: [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/federico-suarez-qa-engineer)
+#description: <a href="http://www.linkedin.com/in/federico-suarez-qa-engineer" target="_blank">linkedin</a>
 show_downloads: true
 theme: jekyll-theme-minimal
